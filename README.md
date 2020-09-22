@@ -2,7 +2,7 @@
 
 I'm a Front-end Lead Developer.
 
-- 🔭 I’m currently working on TypeScript, React & Next.js
+- 🔭 I’m currently working on TypeScript, React & Next.js. Here you may find my resume : http://plaquevent.net/
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
