@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I'm a Front-end Lead Developer.
 
 - 🔭 I’m currently working on TypeScript, React & Next.js
 <!--
