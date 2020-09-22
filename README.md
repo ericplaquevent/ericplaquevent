@@ -13,4 +13,6 @@ I'm a Front-end Lead Developer.
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericplaquevent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericplaquevent&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericplaquevent&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
